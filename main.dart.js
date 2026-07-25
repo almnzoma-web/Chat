@@ -91533,7 +91533,7 @@ A.aom.prototype={
 $1(a){return B.CR},
 $S:565}
 A.aop.prototype={
-$0(){return this.a.mg("\u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u062a\u0637\u0628\u064a\u0642 (\u0627\u0644\u0647\u0627\u062a\u0641)","https://www.facebook.com/AlmnzomaOnline")},
+$0(){return this.a.mg("\u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u062a\u0637\u0628\u064a\u0642 (\u0627\u0644\u0647\u0627\u062a\u0641)","https://almnzoma-mox.blogspot.com/p/blog-page_557.html")},
 $S:0}
 A.aot.prototype={
 $0(){return this.a.mg("\u0632\u0627\u0647\u0631 \u0627\u0644\u0645\u0646\u0638\u0648\u0645\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a","https://www.facebook.com/AlmnzomaOnline2")},
