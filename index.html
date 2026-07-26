@@ -4,32 +4,19 @@
   <base href="/">
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="MOX Digital Application">
-
-  <!-- iOS meta tags & icons -->
-  <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="mox_digital_app">
-  <link rel="apple-touch-icon" href="icons/Icon-192.png">
-
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
-
   <title>MOX Digital</title>
-  <link rel="manifest" href="manifest.json">
-
-  <!-- حقن خط Cairo السيادي للويب لعدم ظهور الخطوط الوهمية بالملي -->
+  
+  <!-- حقن خط Cairo من قوقل مباشرة لضمان عدم ظهور الخط الوهمي بالملي -->
   <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
   
   <style>
-    /* فرض الخط على كل عناصر الصفحة والجسم بالملي لمنع أي خط وهمي */
+    /* فرض الخط على مستوى المتصفح بالملي */
     * {
       font-family: 'Cairo', sans-serif !important;
     }
     body {
       background-color: #f8f9fa;
       margin: 0;
-      padding: 0;
     }
   </style>
 </head>
